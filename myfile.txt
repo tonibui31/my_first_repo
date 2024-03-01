@@ -8,3 +8,4 @@ Another second commit
 Some good code
 More good code
 Somemore good code
+Bug in code, but tricky bug, keep history
