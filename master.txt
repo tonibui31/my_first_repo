@@ -1,1 +1,2 @@
 Continue development in master branch
+New line to test

@@ -1,5 +1,6 @@
 One line
 New line added on new_branch
-Yet again added on new_branch
+New line to test get diff
+Not commited line
 
 Master line added on master
