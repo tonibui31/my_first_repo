@@ -1,1 +1,2 @@
 One line
+New line added on new_branch
