@@ -2,3 +2,4 @@ Continue development in master branch
 New line to test
 
 First line, commit on master branch
+Another commit on master branch
